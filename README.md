@@ -36,6 +36,11 @@ Data can be entered manually or automatically through trackers and sensors.
 
 * Python 3.10, 3.11, 3.12
 
+## License
+
+Copying without the written permission of the author is prohibited. When reproducing, a reference to the author is required.
+
+
 ## Контакты
 
 http://tod.zzz.com.ua
